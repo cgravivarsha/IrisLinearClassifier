@@ -1,6 +1,6 @@
 # IrisLinearClassifier
 
-Execute Iris linear classification.ipynb from JupyterLab or similar notebooks.
+Execute Iris linear classification.ipynb on JupyterLab or similar notebooks.
 
 Test & training set are collected from:
 
